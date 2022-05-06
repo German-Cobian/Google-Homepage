@@ -4,7 +4,7 @@
 
 A clone of the Google homepage in HTML and CSS. Recreating the functions of the page are not part of the project. This project was my introduction to both HTML and CSS. It seems pointless to list all that I learned from the assignment in a more specific manner: the list would be endless.
 
-![Google homepage](/Google-Homepage.png?raw=true "Google homepage")
+![Google homepage](/Google-homepage.png?raw=true "Google homepage")
 
 ### Built with
 
@@ -46,4 +46,4 @@ Guidelines for this project were supplied by [Odin Project](https://www.theodinp
 
 ## 📝 License
 
-This project is [MIT](https://github.com/German-Cobian/google-homepage/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/German-Cobian/Google-Homepage/blob/master/LICENSE) licensed.

@@ -46,4 +46,4 @@ Guidelines for this project were supplied by [Odin Project](https://www.theodinp
 
 ## 📝 License
 
-This project is [MIT](https://github.com/German-Cobian/LICENSE) licensed.
+This project is [MIT](https://github.com/German-Cobian/google-homepage/blob/master/LICENSE) licensed.
